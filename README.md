@@ -1,5 +1,5 @@
 # Omnis-ReplaceMenu
-Library shows how you can replace the standard Edit menu with your own custom menu. For more information about the library see the tech note: http://www.omnis.net/technotes/tngi0024.jsp
+Library shows how you can replace the standard Edit menu with your own custom menu. This might be useful if you want to provide translated menu options. For more information about the library see the tech note: http://www.omnis.net/technotes/tngi0024.jsp
 
 Requires Omnis Studio 8.1.2 or above.
 
